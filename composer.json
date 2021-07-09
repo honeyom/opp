@@ -8,6 +8,7 @@
             "email": "d536819@sina.cn"
         }
     ],
+    "minimum-stability":"stable",
     "require-dev": {
         "php": ">=7.0"
     },
